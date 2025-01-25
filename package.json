@@ -1,0 +1,16 @@
+{
+  "name": "filename-extractor",
+  "version": "1.0.0",
+  "description": "Get file names from a folder and output them as a list",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}

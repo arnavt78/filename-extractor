@@ -1,3 +1,9 @@
+/**
+ * Reads the names of all files in a folder and writes them to a file.
+ *
+ * Usage: node index.js <folder> <file>
+ */
+
 import chalk from "chalk";
 import fs from "fs";
 
